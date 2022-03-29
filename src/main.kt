@@ -4,9 +4,8 @@ fun main(){
     println(y)
 
     var z=getAnswer("Nancy",22)
-
     var z=getAnswer("rehema",22)
-
+    var z=getAnswer("Sabdio",22)
     println(z)
     var x=getSolution("vitz")
     println{x}
@@ -20,6 +19,7 @@ fun getMode(a:Int,b:Int):Int{
 }
 fun getAnswer(name:String,age:Int):String{
     var answer="Hi my name is rehema"+ " " + "and am 22 years old"
+
     return answer
 
 }
@@ -28,4 +28,6 @@ fun getSolution(name:String):String{
     println(name.length)
     return car
 }
+show me this job i want to understand thank you
+ggdgfdsgdygfywe yfegdgdgfhdfdf
 
