@@ -2,6 +2,9 @@ fun main(){
 
     var y=getMode(7,4)
     println(y)
+
+    var z=getAnswer("Nancy",22)
+    var z=getAnswer("rehema",22)
     var z=getAnswer("Sabdio",22)
     println(z)
     var x=getSolution("vitz")
