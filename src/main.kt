@@ -2,7 +2,7 @@ fun main(){
 
     var y=getMode(7,4)
     println(y)
-    var z=getAnswer("caroline",22)
+    var z=getAnswer("rehema",22)
     println(z)
     var x=getSolution("vitz")
     println{x}
@@ -15,7 +15,7 @@ fun getMode(a:Int,b:Int):Int{
 
 }
 fun getAnswer(name:String,age:Int):String{
-    var answer="Hi my name is caroline"+ " " + "and am 22 years old"
+    var answer="Hi my name is rehema"+ " " + "and am 22 years old"
     return answer
 
 }
